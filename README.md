@@ -8,7 +8,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/Nota0x7"><img width="32px" alt="Dev.to" title="Nota0x7 Dev.to" src="https://i.imgur.com/57IhhAE.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/o49K7I9.png"/></a>
+  <a href="https://ko-fi.com/nota0x7"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/o49K7I9.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
