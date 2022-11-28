@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/wo2shCV.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/MiaxuOfficial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/jULzMzs.png"/></a>
+  <a href="https://twitter.com/Nota0x7"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/jULzMzs.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/v6vBe7TEQ3" alt="Join our community"><img width="32px" src="https://i.imgur.com/eIRaI6D.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
