@@ -35,16 +35,7 @@ Hi, Im **Nota** also known as *0x7* an Im a normal dev that made the button logg
 
   <a href="https://github.com/Nota0x7"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Nota0x7&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/Nota0x7"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Nota0x7&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-  
-  ## 📘 My top open source projects
-  
-  ***Nothing here yet!***
-  
-  <p align="left">
-  <a href="https://github.com/Nota0x7?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p
-  
- <p align="right">
+   <p align="right">
   <a href="https://www.discord.gg/v6vBe7TEQ3">
     <img alt="discord " title="Join our anti scam cord" src="https://custom-icon-badges.herokuapp.com/discord/624217127540359188?color=%23E1AD0E&logo=comments&logoColor=white&style=for-the-badge&labelColor=C79600"/></a><br>
   <a href="https://github.com/Nota0x7?tab=repositories&sort=stargazers">
@@ -54,3 +45,13 @@ Hi, Im **Nota** also known as *0x7* an Im a normal dev that made the button logg
   <a href="https://github.com/Nota0x7">
     <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Nota0x7&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
 </p>
+  
+  ## 📘 My top open source projects
+  
+  ***Nothing here yet!***
+  
+  <p align="left">
+  <a href="https://github.com/Nota0x7?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p
+  
+
