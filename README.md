@@ -39,3 +39,7 @@ Hi, Im **Nota** also known as *0x7* an Im a normal dev that made the button logg
   ## 📘 My top open source projects
   
   ***Nothing here yet!***
+  
+  <p align="left">
+  <a href="https://github.com/Nota0x7?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p
