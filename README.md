@@ -46,8 +46,6 @@ Hi, Im **Nota** also known as *0x7* an Im a normal dev that made the button logg
 </p
   
 <p align="right">
-  <a href="https://www.discord.gg/v6vBe7TEQ3">
-    <img alt="discord " title="Join our anti scam cord" src="https://custom-icon-badges.herokuapp.com/discord/1045084052639723520?color=%23E1AD0E&logo=comments&logoColor=white&style=for-the-badge&labelColor=C79600"/></a><br>
   <a href="https://github.com/Nota0x7?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FNota0x7"/></a>
   <a href="https://github.com/Nota0x7?tab=followers">
