@@ -12,3 +12,21 @@
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Nota0x7.visitor-badge)
+
+<p>
+  
+Hi, Im **Nota** also known as *0x7* an Im a normal dev that made the button logging exploit on discord. Im Fluent in lua, javascript, and more. ✨
+
+<div>
+<details>
+  <summary> More about me</summary>
+
+- 🔭 I’m currently on a journey to build **great** things
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+  
+- 💬 Feel free to ask me for source of unopen source projects
+
+</details>
+  
+</p>`
