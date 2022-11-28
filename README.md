@@ -17,9 +17,6 @@
   
 Hi, Im **Nota** also known as *0x7* an Im a normal dev that made the button logging exploit on discord. Im Fluent in lua, javascript, and more. ✨
 
-<div>
-<details>
-  <summary> More about me</summary>
 
 - 🔭 I’m currently on a journey to build **great** things
 
@@ -27,6 +24,6 @@ Hi, Im **Nota** also known as *0x7* an Im a normal dev that made the button logg
   
 - 💬 Feel free to ask me for source of unopen source projects
 
-</details>
+
   
-</p>`
+</p>
