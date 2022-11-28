@@ -1,10 +1,10 @@
-<a href="https://discord.gg/shiba"><img src="https://i.imgur.com/qv0ohmP.png" width="100%" height="auto"/></a>
+<a href="https://discord.gg/v6vBe7TEQ3"><img src="https://i.imgur.com/qv0ohmP.png" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/wo2shCV.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/MiaxuOfficial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/jULzMzs.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/shiba" alt="Join our community"><img width="32px" src="https://i.imgur.com/eIRaI6D.png"/></a>
+  <a href="https://discord.gg/v6vBe7TEQ3" alt="Join our community"><img width="32px" src="https://i.imgur.com/eIRaI6D.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/giingu"><img width="32px" alt="Dev.to" title="Nota0x7 Dev.to" src="https://i.imgur.com/57IhhAE.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -45,7 +45,7 @@ Hi, Im **Nota** also known as *0x7* an Im a normal dev that made the button logg
 </p
   
  <p align="right">
-  <a href="https://www.discord.gg/shiba">
+  <a href="https://www.discord.gg/v6vBe7TEQ3">
     <img alt="discord " title="Join our anti scam cord" src="https://custom-icon-badges.herokuapp.com/discord/624217127540359188?color=%23E1AD0E&logo=comments&logoColor=white&style=for-the-badge&labelColor=C79600"/></a><br>
   <a href="https://github.com/Nota0x7?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FNota0x7"/></a>
