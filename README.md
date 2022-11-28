@@ -35,3 +35,7 @@ Hi, Im **Nota** also known as *0x7* an Im a normal dev that made the button logg
 
   <a href="https://github.com/Nota0x7"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Nota0x7&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/Nota0x7"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Nota0x7&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  
+  ## 📘 My top open source projects
+  
+  ***Nothing here yet!***
