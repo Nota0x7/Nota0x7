@@ -44,7 +44,7 @@ Hi, Im **Nota** also known as *0x7* an Im a normal dev that made the button logg
   <a href="https://github.com/Nota0x7?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p
   
-  <p align="right">
+ <p align="right">
   <a href="https://www.discord.gg/shiba">
     <img alt="discord " title="Join our anti scam cord" src="https://custom-icon-badges.herokuapp.com/discord/624217127540359188?color=%23E1AD0E&logo=comments&logoColor=white&style=for-the-badge&labelColor=C79600"/></a><br>
   <a href="https://github.com/Nota0x7?tab=repositories&sort=stargazers">
