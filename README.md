@@ -1,3 +1,4 @@
+<a href="https://discord.gg/shiba"><img src="https://i.imgur.com/qv0ohmP.png" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/wo2shCV.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
