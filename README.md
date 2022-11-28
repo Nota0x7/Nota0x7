@@ -43,3 +43,14 @@ Hi, Im **Nota** also known as *0x7* an Im a normal dev that made the button logg
   <p align="left">
   <a href="https://github.com/Nota0x7?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p
+  
+  <p align="right">
+  <a href="https://www.discord.gg/shiba">
+    <img alt="discord " title="Join our anti scam cord" src="https://custom-icon-badges.herokuapp.com/discord/624217127540359188?color=%23E1AD0E&logo=comments&logoColor=white&style=for-the-badge&labelColor=C79600"/></a><br>
+  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGiingu"/></a>
+  <a href="https://github.com/Giingu?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Giingu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/giingu">
+    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=giingu&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
+</p>
