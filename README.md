@@ -10,4 +10,5 @@
   <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/o49K7I9.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Nota0x7.visitor-badge)
