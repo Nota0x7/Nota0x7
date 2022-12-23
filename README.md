@@ -4,7 +4,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/Nota0x7"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/jULzMzs.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/v6vBe7TEQ3" alt="Join our community"><img width="32px" src="https://i.imgur.com/eIRaI6D.png"/></a>
+  <a href="https://discord.gg/WQYTAFwyqu" alt="Join our community"><img width="32px" src="https://i.imgur.com/eIRaI6D.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/Nota0x7"><img width="32px" alt="Dev.to" title="Nota0x7 Dev.to" src="https://i.imgur.com/57IhhAE.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -18,6 +18,9 @@
 <p>
   
 Hi, Im **Nota** also known as *0x7* an Im a normal dev that made the button logging exploit on discord. Im Fluent in lua, javascript, and more. ✨
+  
+Want more? Join my projects discord!
+https://discord.gg/WQYTAFwyqu
 
 
 - 🔭 I’m currently on a journey to build **great** things
