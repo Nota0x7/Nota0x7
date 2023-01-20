@@ -57,4 +57,4 @@ https://discord.gg/WQYTAFwyqu
     <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Nota0x7&style=for-the-badge&color=7c007c&lcolor=640464&logo=AngelList&logoColor=white"/></a>
 </p>
 
-![FlopperOhExOne](https://user-images.githubusercontent.com/119354382/213724839-6411ef27-6e3e-4aea-8434-0335e3a7ce94.png)
+
